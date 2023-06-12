@@ -1,0 +1,36 @@
+.logo {
+    font-family: 'VT323', monospace;
+    text-decoration: none;
+    color: green;
+
+}
+
+
+
+footer{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.quickLinks a {
+    display: block;
+    justify-content: start;
+    text-decoration: none;
+}
+
+.contact a {
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.phone{
+    display: inline-flex;
+}
+
+.phone p {
+    margin-left: 5px;
+}
+
+.phone svg {
+    margin-top: 5px;
+}
